@@ -1,0 +1,12 @@
+---
+published: true
+title: Hi
+layout: post
+tags: [teaching, english]
+categories: [Blogging]
+permalink: Hi
+---
+Welcome to my new blog! I don't even know what it looks like yet. There are two new things: I've never used this platform before, and I haven't really done what I'll be talking about in this blog.<br>
+I'm planning to start teaching, preferably English, after I graduate from uni this summer. This blog is going to be my companion in learning to teach, and I hope you, the readers, will have suggestions for me down the road as well.<br>
+I'm planning to post at least twice a week, about all the new things/methods I learn.<br><br>
+G
